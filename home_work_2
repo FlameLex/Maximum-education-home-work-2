@@ -37,7 +37,7 @@
   ipsa laboriosam laudantium perferendis quo? Ducimus hic
   inventore iste mollitia omnis perspiciatis saepe voluptate voluptatum?
 </p>
-<p>
+<p class="homework">
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 Aliquam aliquid commodi cupiditate eius eveniet incidunt,
 ipsa laboriosam laudantium perferendis quo? Ducimus hic
@@ -79,3 +79,42 @@ inventore iste mollitia omnis perspiciatis saepe voluptate voluptatum?
 
 </body>
 </html>
+
+
+
+#CSS
+h1 {
+    background: red;
+}
+
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+#popug {
+    background: aqua;
+}
+
+.paragraph-2 {
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    text-shadow: 5px 5px 5px green
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Courier New;
+}
+.homework {
+    font-style: italic;
+    text-align: center;
+    font size: 24px;
+
+}
